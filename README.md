@@ -486,5 +486,3 @@ Ce projet est un **outil de recherche / expérimentation** en trading algorithmi
   ```
 
 ---
-
-Tu peux copier-coller ce contenu directement dans ton `README.md`.
